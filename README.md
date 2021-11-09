@@ -23,3 +23,4 @@ Step2 : To launch angular 12
 
 
  
+Please refere ReadMe.docx for more info
